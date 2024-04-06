@@ -1,6 +1,6 @@
 import { Canvas } from "@react-three/fiber";
 import { Experience } from "./components/Experience";
-
+// added comments
 function App() {
   return (
     <Canvas shadows camera={{ position: [0, 2, 5], fov: 30 }}>
